@@ -3,7 +3,7 @@
 
 This is a discord bot for betting on dice rolls written in Python (front-end) and Java (back-end) with a SQLite database; it is for dealing with the crypto currency Dogecoin only (but you may modify it for using it with another crypto).
 
-Start off first by downloading all the code here, and then proceed with unzipping the file "SqliteConnection.zip"
+Start off first by downloading all the code here, and then proceed with unzipping the file "SqliteConnection.zip" ; you will need to have Python, Java, & Netbeans installed on the computer you plan on having this discord bot running on.
 
 If you want to use it on your own discord server you will need to have a couple of items in order to config this to run on your discord; please refer to this . . . 
 
