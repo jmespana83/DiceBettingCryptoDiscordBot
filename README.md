@@ -8,7 +8,7 @@ Start off first by downloading all the code here, and then proceed with unzippin
 If you want to use it on your own discord server you will need to have a couple of items in order to config this to run on your discord; please refer to this . . . 
 
 https://realpython.com/how-to-make-a-discord-bot-python/
-or
+OR
 https://medium.com/@moomooptas/how-to-make-a-simple-discord-bot-in-python-40ed991468b4
 
 . . . . for getting setup first with your discord server, & in order to incorporate this bot into it.
