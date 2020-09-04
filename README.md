@@ -5,14 +5,13 @@ This is a discord bot for betting on dice rolls written in Python (front-end) an
 
 Start off first by downloading all the code here, and then proceed with unzipping the file "SqliteConnection.zip" ; you will need to have Python, Java, & Netbeans installed on the computer you plan on having this discord bot running on.
 
-If you want to use it on your own discord server you will need to have a couple of items in order to config this to run on your discord; please refer to this . . . 
+If you want to use it on your own discord server you will need to have a couple of items in order to config this to run on your discord; please refer to this (for getting setup first with your discord server, & in order to incorporate this bot into it.) . . . 
 
 https://realpython.com/how-to-make-a-discord-bot-python/
 OR
 https://medium.com/@moomooptas/how-to-make-a-simple-discord-bot-in-python-40ed991468b4
 
-. . . . for getting setup first with your discord server, & in order to incorporate this bot into it.
-
+. . . . 
 
 Next, you will need to undertake these following steps:
 
