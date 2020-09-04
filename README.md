@@ -38,7 +38,7 @@ Now, to get this Discord Bot up and running, you will need to have two python co
 The order in which you bring up these windows (Java running in Apache NetBeans, the python Bot.py running window, & the python shuffleAddresses.py running window) doesn't matter, but all 3 of them need to be running in order for this discord bot to run correctly.
 
 Now for the fun part, get into your discord server where you have this bot running, and have a go with these commands:
-
+```
 !hello
 !roll
 !balance
@@ -60,5 +60,5 @@ Now for the fun part, get into your discord server where you have this bot runni
 !faucettest
 !historytest
 
-
+```
 
