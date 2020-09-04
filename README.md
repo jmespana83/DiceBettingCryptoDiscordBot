@@ -59,8 +59,9 @@ Now for the fun part, get into your discord server where you have this bot runni
 !faucettest
 !historytest
 ```
-So for example, if you want to roll the dice, execute the command like this: !roll 23.99 100.50
-here you would be setting the win chance to 23.99% and you are betting 100.50 of your crypto coin on this dice roll
+So for example, if you want to roll the dice, execute the command like this:<br/>
+<b>!roll 23.99 100.50</b><br/>
+Here you would be setting the win chance to 23.99% and you are betting 100.50 of your crypto coin on this dice roll
 
 Now ..... "that's all folks"!
 enjoy your new discord bot, modify it as you see fit, thanks for following along and using my bot.
