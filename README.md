@@ -32,7 +32,7 @@ Now, to get this Discord Bot up and running, you will need to have two python co
 ![Herodsdssfdsaf](ApacheNetBeans(Java)-window.jpg)
 
 
-. . . And yes this is intended for running on a Windows box, but you may run it on Mac or Linux or any other OS so long as you have Apache NetBeans installed..... I never got around to simply creating a Java executable that you could have running instead of being forced to have it running through Apache NetBeans; but this easy enough to be done by yourself (I'd recommend googling how to create Java executable).
+. . . And yes this is intended for running on a Windows box, but you may run it on Mac or Linux or any other OS so long as you have Apache NetBeans installed..... I never got around to simply creating a Java executable that you could have running instead of being forced to have it running through Apache NetBeans; but this easy enough to be done by yourself (I'd recommend googling how to create Java executable from source code in Netbeans or something along those lines).
 
 The order in which you bring up these windows (Java running in Apache NetBeans, the python Bot.py running window, & the python shuffleAddresses.py running window) doesn't matter, but all 3 of them need to be running in order for this discord bot to run correctly.
 
