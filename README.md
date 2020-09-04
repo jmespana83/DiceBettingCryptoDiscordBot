@@ -27,7 +27,38 @@ Now, to get this Discord Bot up and running, you will need to have two python co
 ![Herodsdssfdsaf](twoPythonWindowsRunning.jpg)
 
 
+![Herodsdssfdsaf](discordBotRunningOnServer.jpg)
 
+
+![Herodsdssfdsaf](ApacheNetBeans(Java)-window.jpg)
+
+
+. . . And yes this is indended for running on a Window box, but you may run it on Mac or Linux or any other OS so long as you have Apache NetBeans installed..... I never got around to simply creating a Java executable which you could have running instead of being forced to have it running through Apache NetBeans; but this easy enough to be done by yourself (I'd recommend googling how to create Java executeable).
+
+The order in which you bring up these windows (Java running in Apache NetBeans, the python Bot.py running window, & the python shuffleAddresses.py running window) doesn't matter, but all 3 of them need to be running in order for this discord bot to run correctly.
+
+Now for the fun part, get into your discord server where you have this bot running, and have a go with these commands:
+
+!hello
+!roll
+!balance
+!again
+!deposit
+!creditdeposit
+!tip
+!rain
+!faucet
+!history
+!hellotest
+!rolltest
+!balancetest
+!againtest
+!deposittest
+!creditdeposittest
+!tiptest
+!raintest
+!faucettest
+!historytest
 
 
 
