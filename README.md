@@ -1,5 +1,5 @@
 # DiceBettingCryptoDiscordBot
-DiceBettingCryptoDiscordBot
+
 
 This is a discord bot for betting on dice rolls written in Python (front-end) and Java (back-end) with a SQLite database; it is for dealing with the crypto currency Dogecoin only (but you may modify it for using it with another crypto).
 
