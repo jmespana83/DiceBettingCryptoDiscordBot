@@ -14,12 +14,12 @@ https://medium.com/@moomooptas/how-to-make-a-simple-discord-bot-in-python-40ed99
 . . . . 
 
 Next, you will need to undertake these following steps:
-
+```
 Within the "Bot.py" file be sure to update accordingly the fields: fileLocation, TOKEN,
 Within the "diceBot-Config.txt" file be sure to update accordingly the fields: database, house_edge, addFaucet,
 Within the "DbHandler.java" file be sure to update accordingly the fields: DbLocation,
 And within the "addresses-text2.txt" & "addresses-text.txt" file be sure to update accordingly with the crypto deposit addresses for your (wallet &) intended crypto coin to be used, if you plan to use another crypto coin besides Dogecoin then a number of things within all the code would have to be changed, namely the portions dealing with verifying deposits being made on the crypto blockchain; this code is hard-written for Dogecoin.
-
+```
 Now, to get this Discord Bot up and running, you will need to have two python command prompt windows running & have an Apache NetBeans (Java) window running the Java file "SqliteConnection.java" (in execution mode / running mode). Refer to the below screenshot for the How-To . . . 
 
 
